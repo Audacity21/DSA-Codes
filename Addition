@@ -11,6 +11,8 @@ class Main
         int s;
         s=a+b;
         System.out.println("The sum is "+s);
+
+
     }
     
   }
